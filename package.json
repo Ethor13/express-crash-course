@@ -1,0 +1,27 @@
+{
+	"name": "express-crash-course",
+	"version": "1.0.0",
+	"description": "Code accompanying the tutorial for Express JS Crash Course by Traversy Media https://www.youtube.com/watch?v=L72fhGm1tfE",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "nodemon index"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Ethor13/express-crash-course.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Ethor13/express-crash-course/issues"
+	},
+	"homepage": "https://github.com/Ethor13/express-crash-course#readme",
+	"dependencies": {
+		"express": "^4.17.1"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.12"
+	}
+}
